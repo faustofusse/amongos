@@ -1,0 +1,151 @@
+PAUSAR_PLANIFICACION
+LISTAR_TRIPULANTES
+INICIAR_PATOTA 3 /home/utnso/Escritorio/tareasPatota5.txt 3|2 4|5
+INICIAR_PLANIFICACION
+LISTAR_TRIPULANTES
+INICIAR_PATOTA 3 /home/utnso/Escritorio/tareasPatota5.txt 3|2 4|5
+INICIAR_PLANIFICACION
+LISTAR_TRIPULANTES
+INICIAR_PLANIFICACION
+INICIAR_PATOTA 3 /home/utnso/Escritorio/tareasPatota5.txt 3|2 4|5
+LISTAR_TRIPULANTES
+INICIAR_PLANIFICACION
+INICIAR_PATOTA 3 /home/utnso/Escritorio/tareasPatota5.txt 3|2 4|5
+INICIAR_PATOTA 3 /home/utnso/Escritorio/tareasPatota5.txt 3|2 4|5
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+INICIAR_PATOTA 3 /home/utnso/Escritorio/tareasPatota5.txt 3|2 4|5
+INICIAR_PATOTA 3 /home/utnso/Escritorio/tareasPatota5.txt 3|2 4|5
+INICIAR_PLANIFICACION
+INICIAR_PLANIFICACION
+INICIAR_PATOTA 3 /home/utnso/Escritorio/tareasPatota5.txt 3|2 4|5
+INICIAR_PLANIFICACION
+INICIAR_PATOTA 3 /home/utnso/Escritorio/tareasPatota5.txt 3|2 4|5
+INICIAR_PATOTA 3 /home/utnso/Escritorio/tareasPatota5.txt 3|2 4|5
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+EXPULSAR_TRIPULANTE 2 2
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+INICIAR_PATOTA 3 /home/utnso/Escritorio/tareasPatota5.txt 3|2 4|5
+INICIAR_PATOTA 3 /home/utnso/Escritorio/tareasPatota5.txt 3|2 4|5
+INICIAR_PLANIFICACION
+LISTAR_TRIPULANTES
+EXPULSAR_TRIPULANTE 2 2
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+EXPULSAR_TRIPULANTE 1 1
+LISTAR_TRIPULAN
+EXPULSAR_TRIPULANTE 3 2
+LISTAR_TRIPULANTES
+INICIAR_PATOTA 2 ../../../a-mongos-pruebas/Finales/CPU_Patota1.txt 1|1
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/CPU_Patota1.txt 1|1
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/CPU_Patota2.txt 1|0
+INICIAR_PLANIFICACION
+PAUSAR_PLANIFICACION
+LISTAR_TRIPULANTES
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/CPU_Patota3.txt 0|1
+INICIAR_PLANIFICACION
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/CPU_Patota1.txt 1|1
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/CPU_Patota2.txt 1|0
+INICIAR_PLANIFICACION
+PAUSAR_PLANIFICACION
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/CPU_Patota3.txt 0|1
+INICIAR_PLANIFICACION
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+LISTAR_TRIPULANTES
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/CPU_Patota3.txt 0|1
+INICIAR_PLANIFICACION
+PAUSAR_PLANIFICACION
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/CPU_Patota3.txt 0|1
+LISTAR_TRIPULANTES
+EXPULSAR_TRIPULANTE 1 1
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/CPU_Patota3.txt 0|1
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/CPU_Patota3.txt 0|1
+EXPULSAR_TRIPULANTE 1 1
+EXPULSAR_TRIPULANTE 2 1
+EXPULSAR_TRIPULANTE 1 2
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/CPU_Patota3.txt 0|1
+INICIAR_PATOTA 4 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaA.txt
+EXPULSAR_TRIPULANTE 1 1
+EXPULSAR_TRIPULANTE 3 1
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+EXPULSAR_TRIPULANTE 1 1
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+INICIAR_PLANIFICACION
+PAUSAR_PLANIFICACION
+INICIAR_PLANIFICACION
+PAUSAR_PLANIFICACION
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+INICIAR_PLANIFICACION
+PAUSAR_PLANIFICACION
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+INICIAR_PLANIFICACION
+PAUSAR_PLANIFICACION
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+INICIAR_PLANIFICACION
+PAUSAR_PLANIFICACION
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaA.txt
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaA.txt
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaA.txt
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaA.txt
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaA.txt
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaC.txt
+INICIAR_PLANIFICACION
+PAUSAR_PLANIFICACION
+LISTAR_TRIPULANTES
+INICIAR_PATOTA 4 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaA.txt
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaC.txt
+INICIAR_PLANIFICACION
+LISTAR_TRIPULANTES
+PAUSAR_PLANIFICACION
+LISTAR_TRIPULANTES
+INICIAR_PATOTA 4 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaA.txt
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaC.txt
+INICIAR_PLANIFICACION
+PAUSAR_PLANIFICACION
+LISTAR_TRIPULANTES
+EXPULSAR_TRIPULANTE 1 1
+EXPULSAR_TRIPULANTE 3 1
+LISTAR_TRIPULANTES
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+INICIAR_PATOTA 4 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaA.txt
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaC.txt
+INICIAR_PLANIFICACION
+PAUSAR_PLANIFICACION
+EXPULSAR_TRIPULANTE 1 1
+EXPULSAR_TRIPULANTE 3 1
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+INICIAR_PATOTA 4 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaA.txt
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaC.txt
+INICIAR_PLANIFICACION
+PAUSAR_PLANIFICACION
+EXPULSAR_TRIPULANTE 1 1
+EXPULSAR_TRIPULANTE 3 1
+INICIAR_PATOTA 2 /media/sf_workspace/a-mongos-pruebas/Finales/SEG_PatotaB.txt
+INICIAR_PLANIFICACION
+LISTAR_TRIPULANTES
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/PAG_PatotaA.txt 1|1
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/PAG_PatotaB.txt 3|3
+INICIAR_PATOTA 1 /media/sf_workspace/a-mongos-pruebas/Finales/PAG_PatotaC.txt 5|5
+LISTAR_TRIPULANTES

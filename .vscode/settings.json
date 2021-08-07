@@ -1,0 +1,29 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "socket.h": "c",
+        "__hash_table": "c",
+        "__split_buffer": "c",
+        "array": "c",
+        "bitset": "c",
+        "initializer_list": "c",
+        "iterator": "c",
+        "string": "c",
+        "string_view": "c",
+        "unordered_map": "c",
+        "utility": "c",
+        "vector": "c",
+        "discordiador.h": "c",
+        "planificacion.h": "c",
+        "pthread.h": "c",
+        "segmentacion.h": "c",
+        "constantes.h": "c",
+        "constantes_ram.h": "c",
+        "mi-ram-hq.h": "c",
+        "__tuple": "c",
+        "stdlib.h": "c",
+        "paquete.h": "c",
+        "consola.h": "c",
+        "__mutex_base": "c"
+    }
+}
