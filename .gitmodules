@@ -1,3 +1,6 @@
 [submodule "commons"]
 	path = commons
 	url = https://github.com/sisoputnfrba/so-commons-library
+[submodule "pruebas"]
+	path = pruebas
+	url = https://github.com/sisoputnfrba/a-mongos-pruebas
